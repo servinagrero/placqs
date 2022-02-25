@@ -1,0 +1,10 @@
+rabbitmq:
+  username: "username"
+  password: "password"
+  node_name: "node.name"
+  queue_commands: "queue_name"
+
+postgresql:
+  username: "username"
+  password: "password"
+  database: "database"
